@@ -17,10 +17,13 @@ Validated on the HAM10000 dataset, our system demonstrates state-of-the-art perf
 </br>
 
 ## 🧠 Key Features
-| First Header  | Second Header |
+| Component  | Description  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 🧠 DAA-Deep  | Content Cell  |
+| 📷 Visual Extractor  | Content Cell  |
+| 🔗 CLIP Embeddings  | Content Cell  |
+| 📚 RAG Module  | Content Cell  |
+| 💬 Interactive Dialogue  | Content Cell  |
 
 
 | Component	| Description |
