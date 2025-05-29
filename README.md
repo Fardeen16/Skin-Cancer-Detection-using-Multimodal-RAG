@@ -30,14 +30,9 @@ Validated on the HAM10000 dataset, our system demonstrates state-of-the-art perf
 
 
 ## 📊 Results (HAM10000 Dataset)
-| Model Configuration  | Accuracy | ROUGE-L | Q&A Score
-| ------------- | ------------- |
-| 🧠 DAA-Deep  | Confidence-based differential feature selector for improved precision  |
-| 🧠 DAA-Deep  | Confidence-based differential feature selector for improved precision  |
-| 🧠 DAA-Deep  | Confidence-based differential feature selector for improved precision  |
+| Model Config  | Accuracy | ROUGE-L | Q&A Score | 
+| ------------- | ------------- | --------- | ------ |
+| Full System (DAA + CLIP + RAG) | 88.5 ± 1.2 | 0.65 ± 0.05 | 4.2 ± 0.6 |
+| Without DAA | 82.3 ± 1.5 | - | - |
+| Without CLIP  | 88.5 ± 1.2 | 0.50 ± 0.04 | 3.1 ± 0.7 |
 
-
-Model Configuration	Accuracy (%)	ROUGE-L (Report Quality)	Q&A Score (Likert 1–5)
-Full System (DAA + CLIP + RAG)	88.5 ± 1.2	0.65 ± 0.05	4.2 ± 0.6
-Without DAA	82.3 ± 1.5	–	–
-Without CLIP	88.5 ± 1.2	0.50 ± 0.04	3.1 ± 0.7
