@@ -17,13 +17,14 @@ Validated on the HAM10000 dataset, our system demonstrates state-of-the-art perf
 </br>
 
 ## 🧠 Key Features
-| Component	 | Description |
-| ---------------------------- |
-| 🧠 DAA-Deep | 	Confidence-based differential feature selector for improved precision |
+
+| Component	| Description |
+| ----------------------- |
+| 🧠 DAA-Deep | Confidence-based differential feature selector for improved precision |
 | 📷 Visual Extractor |	Deep CNN (e.g., ResNet50) for skin lesion feature extraction |
 | 🔗 CLIP Embeddings	| Aligns image features with medical text for semantic relevance |
 | 📚 RAG Module	| Retrieves and generates human-readable diagnostic reports |
-| 💬 Interactive Dialogue | 	Clinician-like follow-up Q&A to clarify diagnoses |
+| 💬 Interactive Dialogue |	Clinician-like follow-up Q&A to clarify diagnoses |
 </br>
 
 ## 📊 Results (HAM10000 Dataset)
