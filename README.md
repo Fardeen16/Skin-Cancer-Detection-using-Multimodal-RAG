@@ -6,6 +6,8 @@ This project implements an Agentic Multimodal Retrieval-Augmented Generation (RA
 </br>
 
 
+
+  
 ## 🔍 Overview
 Modern healthcare demands not just high-accuracy AI diagnostics but systems that are explainable and interactive. This project builds a system that:
 
@@ -16,6 +18,7 @@ Modern healthcare demands not just high-accuracy AI diagnostics but systems that
 
 Validated on the HAM10000 dataset, our system demonstrates state-of-the-art performance in both diagnostic accuracy and explainability.
 </br>
+
 
 
 ## 🧠 Key Features
