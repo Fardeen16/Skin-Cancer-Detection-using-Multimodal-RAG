@@ -39,3 +39,8 @@ Validated on the HAM10000 dataset, our system demonstrates state-of-the-art perf
 | Without DAA | 82.3 ± 1.5 | - | - |
 | Without CLIP  | 88.5 ± 1.2 | 0.50 ± 0.04 | 3.1 ± 0.7 |
 
+
+## Flow Diagram
+![image](https://github.com/user-attachments/assets/a00e0fe1-5b61-4e6d-b843-89b50de769ba)
+
+
